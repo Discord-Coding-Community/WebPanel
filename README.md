@@ -11,7 +11,8 @@ WebPanel for the Discord Coding Community VPS
  - Hide Admin Only Pages
  - Implement SFTP File Transfer
  - Implement AMP WebPanel for Game Server Hosting *[7 Days to Die server, Conan Exiles server]*
- - Implement a Discord bot compiler *[python based]*
+ - Implement a Discord Bot Cogs Compiler *[To allow people to build their own cogs to load through our Discord Bot]*
+ - Implement a python based Discord Bot *[For use with Cog Compiler[]*
  - Add the ability to upload a Discord bot via SFTP *[For use with Discord bot hosting]*
  - Implement API for use by the Discord bot compiler/hosting *[YouTube, Soudcloud, Spotify, Twitch, etc.]*
  - Add feature to automatically install Discord bot dependencies from a `requirements.txt` file and/or `package.json` file *[For use with Discord bot hosting]*
