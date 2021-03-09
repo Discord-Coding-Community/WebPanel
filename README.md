@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/Discord-Coding-Community/Website/blob/main/LICENSE)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dcc-panel.newhorizon.dev/)
 # WebPanel
 WebPanel for the Discord Coding Community VPS
 
